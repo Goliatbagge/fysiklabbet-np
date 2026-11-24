@@ -9,6 +9,8 @@ gräns på 1 GB.
 - `pdf/ma2c-vt22.pdf` osv.: delprov B–D i Ma 2a, 2b, 2c, 3b, 3c och 4, utan
   bedömningsanvisningarna (källa: Umeå universitet).
 
+- `pdf/<kurs>-<termin>-bedomning.pdf`: bedömningsanvisningarna till varje prov.
+
 Bilderna i filerna är nedskalade (längsta sida 1 300 px, JPEG) för att hålla
 storleken nere. Listan över proven bor i `data/np/frislappta.js` i repot
 Fysiklabbet.
